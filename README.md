@@ -3,7 +3,7 @@
 </div>
 
 # About Me
-Hi! I'm a Computer Science student at The University of Georgia with a passion for software engineering and creating innovative solutions. I specialize in full-stack development and enjoy tackling complex technical challenges.
+I'm a Computer Science student at The University of Georgia with a passion for software engineering and creating innovative solutions. I specialize in full-stack development and enjoy tackling complex technical challenges.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=JohnMedlock&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -32,6 +32,7 @@ Hi! I'm a Computer Science student at The University of Georgia with a passion f
 
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Tools & Technologies
