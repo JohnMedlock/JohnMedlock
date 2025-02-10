@@ -41,21 +41,16 @@ Hi! I'm a Computer Science student at The University of Georgia with a passion f
 # GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnMedlock&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnMedlock&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnMedlock&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&custom_title=GitHub Stats" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnMedlock&theme=gruvbox&hide_border=true&card_width=400" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMedlock&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMedlock&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
 </div>
 
 ### GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JohnMedlock&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JohnMedlock&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 ### Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=JohnMedlock&theme=gruvbox&hide_border=true)
-
----
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
