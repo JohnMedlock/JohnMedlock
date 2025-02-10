@@ -9,7 +9,7 @@ Hi! I'm a Computer Science student at The University of Georgia with a passion f
   <img src="https://komarev.com/ghpvc/?username=JohnMedlock&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 🤝 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jwmedlock)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/JohnMedlock)
 
@@ -53,7 +53,7 @@ Hi! I'm a Computer Science student at The University of Georgia with a passion f
 ![](https://github-profile-trophy.vercel.app/?username=JohnMedlock&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=JohnMedlock&theme=radical&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=JohnMedlock&theme=gruvbox&hide_border=true)
 
 ---
 <div align="center">
