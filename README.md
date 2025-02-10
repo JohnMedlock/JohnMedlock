@@ -42,7 +42,10 @@ Hi! I'm a Computer Science student at The University of Georgia with a passion f
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnMedlock&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnMedlock&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnMedlock&theme=gruvbox&hide_border=false" alt="GitHub Streak" />"
 </div>
 
 <div align="center">
